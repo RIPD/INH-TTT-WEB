@@ -19,9 +19,7 @@ Wenn ihr euch nicht sicher seid, ob ihr zu Unrecht für RDM bestraft wurdet, sch
 ### Wenn du ein Detective bist, könntest du folgendermaßen RDM'd haben:
 - Du tötest einen Innocent ohne Beweise - Genau wie bei einem Innocent kannst du jemanden nur töten, wenn du Beweise hast. Wenn du die DNA eines toten Innocent zu einer anderen Person zurückverfolgen kannst und es sich dabei nicht um einen anderen Detective handelt, kannst du sie töten.
 - Du tötest einen Detective - Genau wie bei einem Innocent gibt es keinen Grund, einen Detective zu töten, wenn du selbst ein Detective bist.
-- Du tötest einen Traitor ohne Beweise - Genau wie ein Innocent, wenn du einen Traitor ohne Beweise tötest (DNA, du hast gesehen, wie er jemanden erschossen hat, er hat ein C4 deponiert usw.), dann hast du einen RDM.
-
-Als Detektiv kannst du jeden töten, den du willst, außer anderen Detektiven und erwiesenermaßen Innocent während der Überstunden, solange du sie verdächtigst, ein Traitor zu sein.
+- Du tötest einen Traitor ohne Beweise - Genau wie ein Innocent, wenn du einen Traitor ohne Beweise tötest (Beispielsweise: DNA, du hast gesehen wie er jemanden erschossen hat, er hat ein C4 deponiert usw.), dann hast du einen RDM.
 
 # RDM als Traitor
 ### Hier ist die einzige Möglichkeit, als Traitor zu randalieren:
